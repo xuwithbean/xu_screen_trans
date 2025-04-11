@@ -1,0 +1,17 @@
+common
+dual
+data
+easyocr
+googletrans
+googletrans
+keyboard
+manga_ocr
+paddlepaddle
+pyautogui
+prox
+pynput
+paddleocr
+setuptools
+tight
+tkinter
+ttkbootstrap
